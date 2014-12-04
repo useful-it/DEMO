@@ -1,4 +1,4 @@
-DEMO
+ENUM-VM.PS1
 ====
 .Synopsis
 -----
