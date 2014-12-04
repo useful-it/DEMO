@@ -1,7 +1,7 @@
 DEMO
 ====
 .Synopsis
-=====
+-----
    Get all the running Virtual Machines from a host.
 
 .DESCRIPTION
