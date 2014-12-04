@@ -19,7 +19,7 @@ DEMO
     the values will be asked.
 .EXAMPLE
 =====
-   .\Enum-vm.ps1 -HyperV <server1>,<Server2>,......
+   .\Enum-vm.ps1 -HyperV [server1],[Server2]
 
 .EXAMPLE
 =====
@@ -27,6 +27,6 @@ DEMO
 
         cmdlet Enum-VM.ps1 at command pipeline position 1
         Supply values for the following parameters:
-        HyperV[0]: <Server1>
-        HyperV[1]: <Server2>
+        HyperV[0]: [Server1]
+        HyperV[1]: [Server2]
         HyperV[2]:
