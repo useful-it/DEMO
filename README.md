@@ -30,3 +30,12 @@ ENUM-VM.PS1
         HyperV[0]: [Server1]
         HyperV[1]: [Server2]
         HyperV[2]:
+
+.NOTE
+----
+$information = @{
+	FullName = Wessel van Sandwijk
+	Email =	info@useful-it.nl
+	Website = www.useful-it.nl
+}
+	Twitter = @wvsandwijk
