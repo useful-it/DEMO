@@ -33,9 +33,10 @@ ENUM-VM.PS1
 
 .NOTE
 ----
-$information = @{
-	FullName = Wessel van Sandwijk
+$information = @(
+        FullName = Wessel van Sandwijk
 	Email =	info@useful-it.nl
 	Website = www.useful-it.nl
-}
 	Twitter = @wvsandwijk
+	)
+	
